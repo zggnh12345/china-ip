@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/OneOhCloud/one-geoip/rule-set/one-china.srs
 ## ⭐ 特性
 
 - 每日自动更新
-- 优化的二进制格式，加载速度快
+- 优化的二进制和JSON格式规则集，加载速度快
 - 包含中国大陆各大运营商的 IPv4 和 IPv6 地址
 
 
